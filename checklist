@@ -1,0 +1,24 @@
+Pontos para estudar:
+
+Test Double
+Politicas de fallback
+Arquitetura distribuida
+Arquitetura de transição
+The twelve factor app
+topologia de microserviços
+    - API gateway
+Stateless
+Network police
+Autenticação (auth)
+GRPC
+gaGO.io
+EDA
+    - Esquema evolutivo
+CQS
+CQRS
+Saga
+AWS step functions
+Microservicos
+Golang Uber fx
+KSQL db
+Modelo GSM
